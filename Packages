@@ -1,0 +1,12 @@
+Package: edinborg
+Version: 4.0.0
+Architecture: all
+Maintainer: EdinborgTM <edinborgtm@example.com>
+Depends: bash, curl, git
+Filename: ./edinborg.deb
+Size: 2184
+MD5sum: 1e965532057db6de9b84ed759be58946
+SHA1: 94261c7b41dafb9ecb70c87325530daa8c8fe79b
+SHA256: 8779e32c6d913d04b0d5ed095471be5a4c74b9a24fda72bac9c7812ce813336f
+Description: A collection of security tools
+
